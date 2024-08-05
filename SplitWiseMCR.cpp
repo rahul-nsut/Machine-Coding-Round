@@ -4,6 +4,10 @@
 
 // Can define the ENUMS outside as well
 
+// Like we can also define each service separately to make a clean structure..
+// Expenses Service, User Service, SplitWise Serives. 
+// TO perform this we have already implemented in main SplitWiseSystems
+
 enum ExpenseType {
     EQUAL, EXACT, PERCENTAGE
 };
